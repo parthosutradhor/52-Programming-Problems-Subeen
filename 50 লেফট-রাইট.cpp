@@ -1,12 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
-#define Long unsigned long long int
-
 
 int main()
 {
     int T;
-	string s;
+    string s;
     cin >> T;
     while (T--) {
         cin >> s;
